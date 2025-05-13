@@ -54,6 +54,12 @@ Humidity (%) = (100 / -170) × (SensorValue - 915)
 
 The device successfully monitored soil humidity and transmitted the data wirelessly over long distances. The system showed reliability and low power consumption, making it suitable for rural and large-scale agricultural applications.
 
+## 💡 Significance
+
+- Enables farmers to respond quickly to moisture and nutrient changes.
+- Improves water conservation and crop yield.
+- Wireless, easy to install and maintain.
+
 ## ✅ Conclusion
 
 This project demonstrates how LoRa communication and simple microcontrollers can be used effectively in precision agriculture. It offers a scalable, affordable, and easy-to-maintain solution for farmers.
